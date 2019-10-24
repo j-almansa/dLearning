@@ -1,0 +1,7 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Misc files and directories
+datasets/thyroid.zip
+datasets/thyroid/
+
