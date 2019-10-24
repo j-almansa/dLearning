@@ -7,8 +7,9 @@ Keras.
 All notebooks can be displayed with [nbviewer](https://nbviewer.jupyter.org).
 Follow the links below for access:
 
-* [ cifar10 ](https://nbviewer.jupyter.org/github/j-almansa/dLearning/blob/master/cifar10.ipynb)
-* [ fashion_mnist ](https://nbviewer.jupyter.org/github/j-almansa/dLearning/blob/master/fashion_mnist.ipynb)
-* [ catsndogs ]( https://nbviewer.jupyter.org/github/j-almansa/dLearning/blob/master/catsndogs.ipynb )
-* [ imdb ](https://nbviewer.jupyter.org/github/j-almansa/dLearning/blob/master/imdb.ipynb)
-
+* [ Fully Connected Neural Network ](https://nbviewer.jupyter.org/github/j-almansa/dLearning/blob/master/fashion_mnist.ipynb)
+* [ Convolutional Neural Network ](https://nbviewer.jupyter.org/github/j-almansa/dLearning/blob/master/cifar10.ipynb)
+* [ Transfer Learning ]( https://nbviewer.jupyter.org/github/j-almansa/dLearning/blob/master/catsndogs.ipynb )
+* [ Recurrent Neural Network ](https://nbviewer.jupyter.org/github/j-almansa/dLearning/blob/master/imdb.ipynb)
+* [ Reinforcement Learning ]( https://nbviewer.jupyter.org/github/j-almansa/dLearning/blob/master/trader.ipynb )
+* [ Data Validation ](https://nbviewer.jupyter.org/github/j-almansa/dLearning/blob/master/datavalidation.ipynb)
